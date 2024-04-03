@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @titsaa
-- 👀 I’m interested in becoming a full stack developer and AWS cloud engineer.
-- 🌱 I’m currently learning programing with React JS.
-- 💞️ I’m looking to collaborate on ideas involving React, Bootstrap, sass, javascript.
+- 👋 Hi, I’m Ndipowa Titsa'a
+- 👀  I'm a UX Designer and full-stack developer.
+- 🌱 I’m currently programming with Python, and Javascript.
+- 💞️ I’m looking for partners and collaborations on cool projects. I love to learn new stuff!
 - 📫 How to reach me: linkedin.com/in/ndipowa-titsaa  
 
 <!---
