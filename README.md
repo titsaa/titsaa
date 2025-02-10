@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Ndipowa Titsa'a
-- 👀  I am a full-stack developer | Certified Cloud AWS Cloud Architect | Certified Linux Systems Administrator.
-- 🌱 I’m currently programming with Python, and Javascript. Frameworks: React Native, Django, and Flask.
-- 💞️ I’m looking for partners and collaborations on cool projects. I love to learn new stuff!
+- 👋 Hi, I’m Titsa'a Ndipowa
+- 👀 Certified Cloud AWS Cloud Architect | Certified Linux Systems Administrator | DevOps Engineer.
+- 💻 I’m currently programming with Python and Javascript. Frameworks: React Native, Django, and Flask.
+- 🧰 Git, Docker, K8s, Ansible, Jenkins, Terraform, Sonaqube, Maven, GitOps, etc
+- 🤝 I’m looking for partners and collaborations on cool projects. I love to learn new stuff!
 - 📫 How to reach me: linkedin.com/in/ndipowa-titsaa | https://n-titsaa.com
   
 
